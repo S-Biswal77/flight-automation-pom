@@ -1,0 +1,19 @@
+# Maven
+target/
+*.log
+
+# VS Code
+.vscode/
+.settings/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.jar
+
+# Selenium driver binaries
+chromedriver.exe
+geckodriver.exe
